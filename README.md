@@ -102,6 +102,13 @@ For detailed platform-specific requirements, see the [Setup Guide](https://openf
 
 ---
 
+## 如需旧版本Android SDK请查阅 [Low Android](https://github.com/licc981/Flocon/tree/feat-low-android/FloconLowAndroid)
+
+ 
+
+该分支的工具链为 Gradle 7.3.3、Android Gradle Plugin 7.2.2、Kotlin 1.7.0；库的最低 Android 版本为 API 21，Java / Kotlin 字节码目标为 11。
+
+
 ## 🤝 Contributors
 
 Thanks to these amazing people for making Flocon better every day!
